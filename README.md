@@ -1,1 +1,1 @@
-# openapi-integration-teat-generator
+# openapi-test-generator
