@@ -1,0 +1,1 @@
+# openapi-integration-teat-generator
