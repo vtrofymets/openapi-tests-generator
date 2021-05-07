@@ -1,1 +1,1 @@
-# openapi-test-generator
+# Generate tests on OpenAPI specification
